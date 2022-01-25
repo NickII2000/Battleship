@@ -144,7 +144,7 @@ var controller = {
 			}
 		}
 	}
-}
+};
 
 
 // helper function to parse a guess from the user
